@@ -1,16 +1,12 @@
-# api
+This project is based on performing network request {POST ,GET } at now using the flutter app.THE PROJECT IS NOT YET COMPLETE.
+This flutter app is based on Getx for state management
 
-A new Flutter project.
+make sure pyhton3 is installed on your computer.
+Copy the server folder in to another folder.
+Open the server directory and runthe following commands 
+  pip3 install -r requirements.txt
+  
+open the utils and cange the app_urls.dart file and paste in the rootlink on which your server is running on/ the app is connected with with the server.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ie 127.0.0.1:5000
