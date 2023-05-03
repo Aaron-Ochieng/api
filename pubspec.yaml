@@ -34,15 +34,15 @@ dependencies:
   fluentui_system_icons: ^1.1.198
   flutter:
     sdk: flutter
-  flutter_chat_ui: ^1.6.6
+  #flutter_chat_ui: ^1.6.6
   flutter_screenutil: ^5.7.0
   flutter_svg: ^2.0.5
   get: ^4.6.5
   http: null
-  image_cropper: ^3.0.3
+  # image_cropper: ^3.0.3
   image_picker: null
-  infinite_scroll_pagination: ^3.2.0
-  pull_to_refresh: ^2.0.0
+  #infinite_scroll_pagination: ^3.2.0
+  #pull_to_refresh: ^2.0.0
   shared_preferences: ^2.1.0
   social_login_buttons: ^1.0.7
 
